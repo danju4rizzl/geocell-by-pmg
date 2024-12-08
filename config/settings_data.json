@@ -224,7 +224,7 @@
     "newsletter_popup_image": "shopify://shop_images/400X400.png",
     "popup_newsletter_link_image": "https://shopify.pxf.io/oq3WaO",
     "newsletter_popup_title": "Don't Miss Out!",
-    "newsletter_popup_desc": "Be the <strong>first </strong>to know about our special promotions, <strong>discounts</strong>, and expert tips.",
+    "newsletter_popup_desc": "Be the <strong class=\"text-primary\">first </strong>to know about our special promotions, <strong class=\"text-primary\">discounts</strong>, and expert tips.",
     "newsletter_popup_note": "No, thanks",
     "select_button_submit": "default",
     "button_newsletter_link": "",
@@ -846,5 +846,10 @@
       }
     },
     "content_for_index": []
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "/* Deejaydev custom code here */.text-primary {color: #f58735;}"
+    ]
   }
 }
