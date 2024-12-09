@@ -89,12 +89,12 @@
             "cart_color": "#323232",
             "cart_color_item": "#323232",
             "cart_bg_item": "#ffe5e8",
-            "show_wishlist": false,
+            "show_wishlist": true,
             "wishlist_color": "#323232",
-            "show_wishlist_number": false,
+            "show_wishlist_number": true,
             "wishlist_color_item": "#ffffff",
             "wishlist_bg_item": "#232323",
-            "show_customer": false,
+            "show_customer": true,
             "customer_color": "#323232",
             "spacing": 0
           }
