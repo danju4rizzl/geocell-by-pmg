@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header Group",
@@ -8,7 +17,7 @@
         "60fe30b1-fa66-4bd9-9d3f-21fc97aa738c": {
           "type": "announcement",
           "settings": {
-            "text": "<p>\n    <svg style=\"margin: 0 10px 0 100px\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 506.53 510.69\"><g id=\"Layer_2\" data-name=\"Layer 2\"><g id=\"Layer_1-2\" data-name=\"Layer 1\"><path d=\"M500.7,27.62q-36.6,35-73.12,70.12-51.12,49.06-102.29,98.1a55.94,55.94,0,0,1-5.33,4c3.14,2.3,5.08,3.77,7.06,5.18,29.3,21,58.69,42,87.82,63.22a21,21,0,0,1,7.21,10.15c2.13,7-1.16,12.82-8.35,16.79Q383.18,312,352.54,328.66L59.88,488.36a297,297,0,0,1-35,20A23.59,23.59,0,0,1,20,510.11h0a19.7,19.7,0,0,1-4.67.58,15.23,15.23,0,0,1-9.59-3.19c-.18-.13-.34-.28-.51-.43a1.49,1.49,0,0,1-.14-.12l-.58-.55L4.19,506a16.25,16.25,0,0,1-4.08-9.31,16.08,16.08,0,0,1-.11-1.8A13.51,13.51,0,0,1,.57,491a18.36,18.36,0,0,1,5.26-7.94q33.48-32,66.89-64.15,67.46-65.28,135-130.49a49.09,49.09,0,0,1,5.42-3.89c-8.41-6.07-15.5-11.2-22.62-16.3l-79.41-57c-12.42-8.92-11.34-21.75,2.4-28.48L481.61,2.37C493.53-3.47,505,1.88,506.42,14,507.08,19.56,504.66,23.84,500.7,27.62Z\"><\/path><\/g><\/g><\/svg>\n    <a href=\"#\" target=\"_blank\">\n        <span>Summer sale: Up to 70% off selected items<\/span>\n    <\/a>\n<\/p>",
+            "text": "<p>\n   <svg style=\"margin: 0 10px 0 100px\" width=\"800px\" height=\"800px\" viewbox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.5 6.5C15.2372 6.64382 15.9689 6.96892 16.5 7.5C17.0311 8.03108 17.3562 8.76284 17.5 9.5M15 3C16.5315 3.17014 17.9097 3.91107 19 5C20.0903 6.08893 20.8279 7.46869 21 9M20.9995 16.4767V19.1864C21.0037 20.2223 20.0723 21.0873 19.0265 20.9929C10.0001 21 3.00006 13.935 3.00713 4.96919C2.91294 3.92895 3.77364 3.00106 4.80817 3.00009H7.52331C7.96253 2.99577 8.38835 3.151 8.72138 3.43684C9.66819 4.24949 10.2772 7.00777 10.0429 8.10428C9.85994 8.96036 8.99696 9.55929 8.41026 10.1448C9.69864 12.4062 11.5747 14.2785 13.8405 15.5644C14.4272 14.9788 15.0274 14.1176 15.8851 13.935C16.9855 13.7008 19.7615 14.3106 20.5709 15.264C20.858 15.6021 21.0105 16.0337 20.9995 16.4767Z\" stroke=\"#000000\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>\n    <a href=\"tel:+27104429535\" target=\"_blank\">\n JHB &amp; PTA +27104429535 \n</a>\n\n<a href=\"tel:+27661007440\" style=\"margin: 0px 20px\" target=\"_blank\">CAPE TOWN +27661007440</a>\n\n<a href=\"tel:+27319404345\" target=\"_blank\"> KZN +27319404345</a>\n</p>",
             "btn_color": "#f84248",
             "btn_border_color": "#ffffff",
             "btn_bg_color": "#ffffff",
@@ -22,8 +31,8 @@
       "settings": {
         "layout": "scroll",
         "enable_close": false,
-        "color_text": "#b05d5d",
-        "bg_color_text": "#ffe8e8",
+        "color_text": "#ff8b21",
+        "bg_color_text": "#232323",
         "bg_color_text_gradient": "",
         "font_size_text": 12,
         "font_style_text": "normal",
@@ -40,7 +49,6 @@
         "a2e4ea2e-73e5-4452-8129-d86dbbae584d": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/ella-logo-black-compressor.png",
             "logo_width": 90,
             "logo_text": "",
             "logo_font_size": 30,
@@ -53,7 +61,7 @@
         "fde2cc21-cbc9-4c9a-ad68-7cc53ec68280": {
           "type": "service",
           "settings": {
-            "customer_service_text": "<p>Customer Service 091 234-ELLA<\/p>",
+            "customer_service_text": "<p>Customer Service 091 234-ELLA</p>",
             "text_color": "#323232",
             "show_language_currency": true,
             "language_currency_color": "#323232",
@@ -68,7 +76,7 @@
         "5939cbc0-a9fd-48e0-adcd-1d945e05dc99": {
           "type": "text",
           "settings": {
-            "free_shipping_text": "<p>Free shipping on All Orders. No Minimum Purchase<\/p>",
+            "free_shipping_text": "<p>Free shipping on All Orders. No Minimum Purchase</p>",
             "text_color": "#232323",
             "spacing": 15
           }
@@ -113,7 +121,6 @@
           "type": "logo",
           "settings": {
             "logo_position": "sticky_menu",
-            "logo": "shopify:\/\/shop_images\/logo-fixed.png",
             "logo_width": 90,
             "logo_width_fixed": 55,
             "logo_text": "",
@@ -200,8 +207,7 @@
             "item": "new in",
             "column": 3,
             "show_banner_1": true,
-            "banner_1": "shopify:\/\/shop_images\/mega-menu-1.jpg",
-            "banner_url_1": "shopify:\/\/collections\/blazero",
+            "banner_url_1": "shopify://collections/blazero",
             "show_product": true,
             "product_title": "Featured Products",
             "product_collection": "naminos-dementus-a-dincidunto-5"
@@ -215,14 +221,11 @@
             "item": "trend",
             "column": 3,
             "show_banner_1": true,
-            "banner_1": "shopify:\/\/shop_images\/mega-menu-2.jpg",
-            "banner_url_1": "shopify:\/\/collections\/congue",
+            "banner_url_1": "shopify://collections/congue",
             "show_banner_2": true,
-            "banner_2": "shopify:\/\/shop_images\/mega-menu-3.jpg",
-            "banner_url_2": "shopify:\/\/collections\/cosmopolis",
+            "banner_url_2": "shopify://collections/cosmopolis",
             "show_banner_3": true,
-            "banner_3": "shopify:\/\/shop_images\/mega-menu-4.jpg",
-            "banner_url_3": "shopify:\/\/collections\/cosmopolitan"
+            "banner_url_3": "shopify://collections/cosmopolitan"
           }
         },
         "4d022900-5ec2-41b0-89c1-edea75a13c28": {
@@ -234,20 +237,15 @@
             "item": "collections",
             "column": 5,
             "show_banner_1": true,
-            "banner_1": "shopify:\/\/shop_images\/mega-menu-5-min.jpg",
-            "banner_url_1": "shopify:\/\/products\/dempus-lortis-cosmo-sapiendo",
+            "banner_url_1": "shopify://products/dempus-lortis-cosmo-sapiendo",
             "show_banner_2": true,
-            "banner_2": "shopify:\/\/shop_images\/mega-menu-6-min.jpg",
-            "banner_url_2": "shopify:\/\/products\/dempus-lortis-cosmo-sapiendo-1",
+            "banner_url_2": "shopify://products/dempus-lortis-cosmo-sapiendo-1",
             "show_banner_3": true,
-            "banner_3": "shopify:\/\/shop_images\/mega-menu-7-min.jpg",
-            "banner_url_3": "shopify:\/\/products\/dempus-lortis-cosmo-sapiendo-2",
+            "banner_url_3": "shopify://products/dempus-lortis-cosmo-sapiendo-2",
             "show_banner_4": true,
-            "banner_4": "shopify:\/\/shop_images\/mega-menu-8-min.jpg",
-            "banner_url_4": "shopify:\/\/products\/dempus-lortis-cosmo-sapiendo-3",
+            "banner_url_4": "shopify://products/dempus-lortis-cosmo-sapiendo-3",
             "show_banner_5": true,
-            "banner_5": "shopify:\/\/shop_images\/mega-menu-9-min.jpg",
-            "banner_url_5": "shopify:\/\/products\/dempus-an-lortis-tempus-sapiendos"
+            "banner_url_5": "shopify://products/dempus-an-lortis-tempus-sapiendos"
           }
         },
         "23b6fa6d-4f30-4a97-8dc1-2c516f8a7f0e": {
@@ -258,8 +256,7 @@
             "item": "demo",
             "column": 5,
             "show_banner_1": false,
-            "banner_1": "shopify:\/\/shop_images\/mega-menu-10-min.jpg",
-            "banner_url_1": "shopify:\/\/products\/dempus-lortis-cosmo-sapiendo-4",
+            "banner_url_1": "shopify://products/dempus-lortis-cosmo-sapiendo-4",
             "show_product": false,
             "product_title": "On Sale Products",
             "product_collection": "dempus-an-lortis-tempus-sapiendos"
@@ -352,7 +349,6 @@
         "550fbd21-75fb-4051-9dee-77d91b5239f0": {
           "type": "logo",
           "settings": {
-            "logo_mobile": "shopify:\/\/shop_images\/ella-logo-black-home-5.png",
             "logo_width_mobile": 65,
             "logo_text": "",
             "logo_font_size": 20,
