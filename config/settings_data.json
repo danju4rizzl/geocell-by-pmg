@@ -849,7 +849,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "/* Deejaydev custom code here */.text-primary {color: #f58735;}"
+      "/* Deejaydev custom code here */.text-primary {color: #f58735;}",
+      ".slide-content.content-box--absolute {border-radius: 10px}"
     ]
   }
 }
