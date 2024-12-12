@@ -1734,7 +1734,7 @@
             "color_label": "#232323",
             "enable_border_top": false,
             "enable_border_bottom": false,
-            "color_border": "#e6e6e6",
+            "color_border": "#232323",
             "spacing_top": 0,
             "spacing_bottom": 15
           }
@@ -1746,7 +1746,7 @@
             "qty_layout": "2",
             "color_qty_label": "#232323",
             "color_qty_icon": "#5a5a5a",
-            "color_qty_input": "#f2f5ff",
+            "color_qty_input": "#ff8b21",
             "bg_color_qty_input": "#ffffff",
             "spacing_top": 0,
             "spacing_bottom": 0
@@ -1827,8 +1827,8 @@
         "thumnail_layout": "2",
         "show_thumbnail_mobile": true,
         "thumbnail_to_show": 5,
-        "thumbnail_active_color": "#e11ecb",
-        "thumbnail_arrow_color_mb": "#ffffff",
+        "thumbnail_active_color": "#ff8b21",
+        "thumbnail_arrow_color_mb": "#232323",
         "thumbnail_image_bg_color": "#121212",
         "media_fit": "unset",
         "product_image_ratio": "adapt",
