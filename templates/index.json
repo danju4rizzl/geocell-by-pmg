@@ -826,188 +826,6 @@
         "mg_bottom_mobile": 40
       }
     },
-    "featured_product_6HTKmx": {
-      "type": "featured-product",
-      "blocks": {
-        "title_eaYiYX": {
-          "type": "title",
-          "settings": {
-            "fontsize_text": 40,
-            "fontsize_text_mb": 24,
-            "color_title": "#ffffff",
-            "spacing_top": 0,
-            "spacing_bottom": 17
-          }
-        },
-        "meta_dgiXhf": {
-          "type": "meta",
-          "settings": {
-            "show_sold_in": true,
-            "sold_in_number": "3,5,6,7,8,10,12,15",
-            "sold_in_hours": "10,15,16,17,18,20,25,35",
-            "color_text_sold_in": "#b60b32",
-            "spacing_top": 0,
-            "spacing_bottom": 13
-          }
-        },
-        "short_description_DBXDA3": {
-          "type": "short_description",
-          "settings": {
-            "show_short_description": true,
-            "word_number": "17",
-            "fontsize_text": 16,
-            "color_text": "#ffffff",
-            "spacing_top": 0,
-            "spacing_bottom": 24
-          }
-        },
-        "price_gBVw6f": {
-          "type": "price",
-          "settings": {
-            "fontsize_text": 30,
-            "spacing_top": 0,
-            "spacing_bottom": 24
-          }
-        },
-        "product_text_yUY6NQ": {
-          "type": "product_text",
-          "settings": {
-            "text": "",
-            "text_icon": "",
-            "text_description": "<strong>Shipping</strong> calculated at checkout.",
-            "fontsize_text": 16,
-            "content_spacing": 0,
-            "custom_block_align": "left",
-            "color_title": "#ffffff",
-            "background_color_block": "rgba(0,0,0,0)",
-            "background_gradient_color_block": "",
-            "spacing_top": 0,
-            "spacing_bottom": 26
-          }
-        },
-        "variant_picker_8K4yxx": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "show_variant_image_group": false,
-            "color_label": "#ffffff",
-            "enable_border_top": false,
-            "enable_border_bottom": false,
-            "color_border": "#e6e6e6",
-            "spacing_top": 0,
-            "spacing_bottom": 15
-          }
-        },
-        "quantity_selector_GL4jaq": {
-          "type": "quantity_selector",
-          "settings": {
-            "qty_style": "1",
-            "qty_layout": "2",
-            "color_qty_label": "#ffffff",
-            "color_qty_icon": "#5a5a5a",
-            "color_qty_input": "#f2f5ff",
-            "bg_color_qty_input": "#ffffff",
-            "spacing_top": 0,
-            "spacing_bottom": 0
-          }
-        },
-        "buy_buttons_bxjghH": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "fontsize_text": 14,
-            "checkbox_color": "#ffffff",
-            "checkbox_border_color": "#494a4d",
-            "color_qty_label": "#ffffff",
-            "color_qty_icon": "#5a5a5a",
-            "color_qty_input": "#f2f5ff",
-            "bg_color_qty_input": "rgba(0,0,0,0)",
-            "wishlist_color": "#747474",
-            "wishlist_border_color": "#121212",
-            "wishlist_bg_color": "#121212",
-            "wishlist_color_hover": "#ffffff",
-            "wishlist_border_color_hover": "#3faeea",
-            "wishlist_bg_color_hover": "#3faeea",
-            "atc_animation": "horizontal-shaking",
-            "atc_color": "#ffffff",
-            "atc_border_color": "rgba(0,0,0,0)",
-            "atc_bg_color": "rgba(0,0,0,0)",
-            "atc_bg_color_gradient": "linear-gradient(90deg, rgba(48, 188, 237, 1), rgba(127, 72, 176, 1) 50%, rgba(229, 26, 203, 1) 100%)",
-            "atc_color_hover": "#ffffff",
-            "atc_border_color_hover": "rgba(0,0,0,0)",
-            "atc_bg_color_hover": "rgba(0,0,0,0)",
-            "atc_bg_color_gradient_hover": "linear-gradient(#000, #000) padding-box,        linear-gradient(90deg, rgba(48, 188, 237, 1), rgba(127, 72, 176, 1) 50%, rgba(229, 26, 203, 1) 100%) border-box",
-            "bin_color": "#ffffff",
-            "bin_border_color": "rgba(0,0,0,0)",
-            "bin_bg_color": "rgba(0,0,0,0)",
-            "bin_bg_color_gradient": "linear-gradient(#000, #000) padding-box,        linear-gradient(90deg, rgba(48, 188, 237, 1), rgba(127, 72, 176, 1) 50%, rgba(229, 26, 203, 1) 100%) border-box",
-            "bin_color_hover": "#ffffff",
-            "bin_border_color_hover": "rgba(0,0,0,0)",
-            "bin_bg_color_hover": "rgba(0,0,0,0)",
-            "bin_bg_color_hover_gradient": "linear-gradient(90deg, rgba(48, 188, 237, 1), rgba(127, 72, 176, 1) 50%, rgba(229, 26, 203, 1) 100%)",
-            "spacing_top": 0,
-            "spacing_bottom": 15
-          }
-        }
-      },
-      "block_order": [
-        "title_eaYiYX",
-        "meta_dgiXhf",
-        "short_description_DBXDA3",
-        "price_gBVw6f",
-        "product_text_yUY6NQ",
-        "variant_picker_8K4yxx",
-        "quantity_selector_GL4jaq",
-        "buy_buttons_bxjghH"
-      ],
-      "custom_css": [
-        ".productView-moreItem h1 {color: #232323;}",
-        ".productView-moreItem h1:hover {color: #232323;}"
-      ],
-      "settings": {
-        "id_section": "",
-        "container": "container",
-        "padding_full_width": 0,
-        "show_sticky_info": false,
-        "bg_color_product": "#FFFFFF",
-        "title": "Special offer",
-        "color_title": "#ff8b21",
-        "fontsize_title": 35,
-        "fontsize_title_mb": 32,
-        "margin_bottom_title": 43,
-        "margin_bottom_title_mb": 20,
-        "des": "Phasellus lorem an malesuada ligula pulvinar commodo maecenas.",
-        "color_des": "#232323",
-        "fontsize_des": 16,
-        "margin_bottom_des": 45,
-        "margin_bottom_des_mb": 30,
-        "title_align": "center",
-        "featured_product": "eocell-ground-grid-8-inch-8-4ft-x-27-4ft-heavy-duty-ground-reinforcement-road-base-truck-parking-building-foundation-drainage-ditch-slope-erosion",
-        "main_image_arrows_desktop": true,
-        "main_image_counter_mobile": false,
-        "main_image_position": "left",
-        "main_image_bg_color": "#121212",
-        "thumnail_layout": "2",
-        "show_thumbnail_mobile": true,
-        "thumbnail_to_show": 5,
-        "thumbnail_active_color": "#ff8b21",
-        "thumbnail_arrow_color_mb": "#232323",
-        "thumbnail_image_bg_color": "#121212",
-        "media_fit": "unset",
-        "product_image_ratio": "square",
-        "portrait_aspect_ratio": 100,
-        "product_image_popup": "fancybox",
-        "video_layout": "thumbnail",
-        "show_badge": true,
-        "show_qty": true,
-        "mg_top_desktop": 60,
-        "mg_top_tablet": 50,
-        "mg_top_mobile": 40,
-        "mg_bottom_desktop": 50,
-        "mg_bottom_tablet": 30,
-        "mg_bottom_mobile": 30
-      }
-    },
     "16323855104e3e74f6": {
       "type": "image-banner",
       "blocks": {
@@ -1848,17 +1666,195 @@
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50
       }
+    },
+    "featured_product_Eb9fp6": {
+      "type": "featured-product",
+      "blocks": {
+        "title_p3rUxH": {
+          "type": "title",
+          "settings": {
+            "fontsize_text": 40,
+            "fontsize_text_mb": 24,
+            "color_title": "#232323",
+            "spacing_top": 0,
+            "spacing_bottom": 17
+          }
+        },
+        "meta_axtFfn": {
+          "type": "meta",
+          "settings": {
+            "show_sold_in": true,
+            "sold_in_number": "3,5,6,7,8,10,12,15",
+            "sold_in_hours": "10,15,16,17,18,20,25,35",
+            "color_text_sold_in": "#b60b32",
+            "spacing_top": 0,
+            "spacing_bottom": 13
+          }
+        },
+        "short_description_GVrrpw": {
+          "type": "short_description",
+          "settings": {
+            "show_short_description": true,
+            "word_number": "17",
+            "fontsize_text": 16,
+            "color_text": "#232323",
+            "spacing_top": 0,
+            "spacing_bottom": 24
+          }
+        },
+        "price_fany6z": {
+          "type": "price",
+          "settings": {
+            "fontsize_text": 30,
+            "spacing_top": 0,
+            "spacing_bottom": 24
+          }
+        },
+        "product_text_xhAJ7y": {
+          "type": "product_text",
+          "settings": {
+            "text": "",
+            "text_icon": "",
+            "text_description": "<strong>Shipping</strong> calculated at checkout.",
+            "fontsize_text": 16,
+            "content_spacing": 0,
+            "custom_block_align": "left",
+            "color_title": "#232323",
+            "background_color_block": "rgba(0,0,0,0)",
+            "background_gradient_color_block": "",
+            "spacing_top": 0,
+            "spacing_bottom": 26
+          }
+        },
+        "variant_picker_caHFKJ": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "show_variant_image_group": false,
+            "color_label": "#232323",
+            "enable_border_top": false,
+            "enable_border_bottom": false,
+            "color_border": "#e6e6e6",
+            "spacing_top": 0,
+            "spacing_bottom": 15
+          }
+        },
+        "quantity_selector_NBPK8D": {
+          "type": "quantity_selector",
+          "settings": {
+            "qty_style": "1",
+            "qty_layout": "2",
+            "color_qty_label": "#232323",
+            "color_qty_icon": "#5a5a5a",
+            "color_qty_input": "#f2f5ff",
+            "bg_color_qty_input": "#ffffff",
+            "spacing_top": 0,
+            "spacing_bottom": 0
+          }
+        },
+        "buy_buttons_y7fWrU": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "fontsize_text": 14,
+            "checkbox_color": "#ffffff",
+            "checkbox_border_color": "#494a4d",
+            "color_qty_label": "#ffffff",
+            "color_qty_icon": "#5a5a5a",
+            "color_qty_input": "#f2f5ff",
+            "bg_color_qty_input": "rgba(0,0,0,0)",
+            "wishlist_color": "#747474",
+            "wishlist_border_color": "#121212",
+            "wishlist_bg_color": "#121212",
+            "wishlist_color_hover": "#232323",
+            "wishlist_border_color_hover": "#3faeea",
+            "wishlist_bg_color_hover": "#3faeea",
+            "atc_animation": "horizontal-shaking",
+            "atc_color": "#ffffff",
+            "atc_border_color": "rgba(0,0,0,0)",
+            "atc_bg_color": "#ff8b21",
+            "atc_bg_color_gradient": "linear-gradient(90deg, rgba(0, 0, 0, 1), rgba(64, 64, 64, 1) 50%, rgba(0, 0, 0, 1) 100%)",
+            "atc_color_hover": "#ffffff",
+            "atc_border_color_hover": "rgba(0,0,0,0)",
+            "atc_bg_color_hover": "rgba(0,0,0,0)",
+            "atc_bg_color_gradient_hover": "",
+            "bin_color": "#ffffff",
+            "bin_border_color": "rgba(0,0,0,0)",
+            "bin_bg_color": "rgba(0,0,0,0)",
+            "bin_bg_color_gradient": "linear-gradient(#000, #000) padding-box,        linear-gradient(90deg, rgba(48, 188, 237, 1), rgba(127, 72, 176, 1) 50%, rgba(229, 26, 203, 1) 100%) border-box",
+            "bin_color_hover": "#ffffff",
+            "bin_border_color_hover": "rgba(0,0,0,0)",
+            "bin_bg_color_hover": "rgba(0,0,0,0)",
+            "bin_bg_color_hover_gradient": "linear-gradient(90deg, rgba(48, 188, 237, 1), rgba(127, 72, 176, 1) 50%, rgba(229, 26, 203, 1) 100%)",
+            "spacing_top": 0,
+            "spacing_bottom": 15
+          }
+        }
+      },
+      "block_order": [
+        "title_p3rUxH",
+        "meta_axtFfn",
+        "short_description_GVrrpw",
+        "price_fany6z",
+        "product_text_xhAJ7y",
+        "variant_picker_caHFKJ",
+        "quantity_selector_NBPK8D",
+        "buy_buttons_y7fWrU"
+      ],
+      "settings": {
+        "id_section": "",
+        "container": "container",
+        "padding_full_width": 0,
+        "show_sticky_info": false,
+        "bg_color_product": "#FFFFFF",
+        "title": "Shop Now",
+        "color_title": "#ffffff",
+        "fontsize_title": 60,
+        "fontsize_title_mb": 34,
+        "margin_bottom_title": 43,
+        "margin_bottom_title_mb": 20,
+        "des": "Phasellus lorem an malesuada ligula pulvinar commodo maecenas.",
+        "color_des": "#ffffff",
+        "fontsize_des": 16,
+        "margin_bottom_des": 45,
+        "margin_bottom_des_mb": 30,
+        "title_align": "center",
+        "featured_product": "",
+        "main_image_arrows_desktop": true,
+        "main_image_counter_mobile": false,
+        "main_image_position": "left",
+        "main_image_bg_color": "#121212",
+        "thumnail_layout": "2",
+        "show_thumbnail_mobile": true,
+        "thumbnail_to_show": 5,
+        "thumbnail_active_color": "#e11ecb",
+        "thumbnail_arrow_color_mb": "#ffffff",
+        "thumbnail_image_bg_color": "#121212",
+        "media_fit": "unset",
+        "product_image_ratio": "adapt",
+        "portrait_aspect_ratio": 100,
+        "product_image_popup": "fancybox",
+        "video_layout": "thumbnail",
+        "show_badge": true,
+        "show_qty": true,
+        "mg_top_desktop": 60,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 40,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 30,
+        "mg_bottom_mobile": 30
+      }
     }
   },
   "order": [
     "16321237356a896dad",
     "163221535239da03ba",
     "163247026462da6862",
-    "featured_product_6HTKmx",
     "16323855104e3e74f6",
     "16328142266b504c78",
     "1632296224c9e90203",
     "1632304586ad9b5b3b",
-    "1632364695b0f88b4f"
+    "1632364695b0f88b4f",
+    "featured_product_Eb9fp6"
   ]
 }
