@@ -730,7 +730,7 @@
         "product_block_collection": "frontpage",
         "product_block_limit": 8,
         "grid_gap": 30,
-        "pb_style": "style1",
+        "pb_style": "style2",
         "style_block_header": "style1",
         "product_block_title": "New Arrivals",
         "enable_border_title": true,
