@@ -831,7 +831,7 @@
       "settings": {
         "container": "container",
         "padding_full_width": 0,
-        "press_bg": "#fafafa",
+        "press_bg": "#f8f8f8",
         "press_gradient": "",
         "align_items": "center",
         "press_image": "shopify://shop_images/400X400.png",
