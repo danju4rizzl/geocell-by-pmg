@@ -828,13 +828,16 @@
     },
     "custom_press_banner_Nwmktj": {
       "type": "custom-press-banner",
+      "custom_css": [
+        "img {border-radius: 10px;}"
+      ],
       "settings": {
         "container": "container",
         "padding_full_width": 0,
         "press_bg": "#f8f8f8",
         "press_gradient": "",
         "align_items": "center",
-        "press_image": "shopify://shop_images/400X400.png",
+        "press_image": "shopify://shop_images/getimg_ai_img-WWZZwSWxwqxm6AV6YTfl0.jpg",
         "press_image_width": 550,
         "press_image_width_ratio": 51,
         "sub_title": "Building a Greener Future",
@@ -872,7 +875,7 @@
         "bg_color_button_hover": "#ff8b21",
         "bg_gradient_color_button_hover": "",
         "btn_text_transform": "uppercase",
-        "image_behavior": "none",
+        "image_behavior": "zoom-in",
         "mg_top_desktop": 50,
         "mg_top_tablet": 50,
         "mg_top_mobile": 50,
