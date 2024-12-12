@@ -721,7 +721,7 @@
         "enable_border_top": false,
         "enable_border_bottom": false,
         "border_height": 1,
-        "color_border_bottom": "#FFFFFF",
+        "color_border_bottom": "#ffffff",
         "enable_minus_mg_top": false,
         "minus_spacing_top": -100,
         "product_block_layout": "slider",
@@ -1667,182 +1667,59 @@
         "mg_bottom_mobile": 50
       }
     },
-    "featured_product_Eb9fp6": {
-      "type": "featured-product",
-      "blocks": {
-        "title_p3rUxH": {
-          "type": "title",
-          "settings": {
-            "fontsize_text": 40,
-            "fontsize_text_mb": 24,
-            "color_title": "#232323",
-            "spacing_top": 0,
-            "spacing_bottom": 17
-          }
-        },
-        "meta_axtFfn": {
-          "type": "meta",
-          "settings": {
-            "show_sold_in": true,
-            "sold_in_number": "3,5,6,7,8,10,12,15",
-            "sold_in_hours": "10,15,16,17,18,20,25,35",
-            "color_text_sold_in": "#b60b32",
-            "spacing_top": 0,
-            "spacing_bottom": 13
-          }
-        },
-        "short_description_GVrrpw": {
-          "type": "short_description",
-          "settings": {
-            "show_short_description": true,
-            "word_number": "17",
-            "fontsize_text": 16,
-            "color_text": "#232323",
-            "spacing_top": 0,
-            "spacing_bottom": 24
-          }
-        },
-        "price_fany6z": {
-          "type": "price",
-          "settings": {
-            "fontsize_text": 30,
-            "spacing_top": 0,
-            "spacing_bottom": 24
-          }
-        },
-        "product_text_xhAJ7y": {
-          "type": "product_text",
-          "settings": {
-            "text": "",
-            "text_icon": "",
-            "text_description": "<strong>Shipping</strong> calculated at checkout.",
-            "fontsize_text": 16,
-            "content_spacing": 0,
-            "custom_block_align": "left",
-            "color_title": "#232323",
-            "background_color_block": "rgba(0,0,0,0)",
-            "background_gradient_color_block": "",
-            "spacing_top": 0,
-            "spacing_bottom": 26
-          }
-        },
-        "variant_picker_caHFKJ": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "show_variant_image_group": false,
-            "color_label": "#232323",
-            "enable_border_top": false,
-            "enable_border_bottom": false,
-            "color_border": "#232323",
-            "spacing_top": 0,
-            "spacing_bottom": 15
-          }
-        },
-        "quantity_selector_NBPK8D": {
-          "type": "quantity_selector",
-          "settings": {
-            "qty_style": "1",
-            "qty_layout": "2",
-            "color_qty_label": "#232323",
-            "color_qty_icon": "#5a5a5a",
-            "color_qty_input": "#ff8b21",
-            "bg_color_qty_input": "#ffffff",
-            "spacing_top": 0,
-            "spacing_bottom": 0
-          }
-        },
-        "buy_buttons_y7fWrU": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "fontsize_text": 14,
-            "checkbox_color": "#ffffff",
-            "checkbox_border_color": "#494a4d",
-            "color_qty_label": "#ffffff",
-            "color_qty_icon": "#5a5a5a",
-            "color_qty_input": "#f2f5ff",
-            "bg_color_qty_input": "rgba(0,0,0,0)",
-            "wishlist_color": "#747474",
-            "wishlist_border_color": "#121212",
-            "wishlist_bg_color": "#121212",
-            "wishlist_color_hover": "#232323",
-            "wishlist_border_color_hover": "#ff8b21",
-            "wishlist_bg_color_hover": "#ff8b21",
-            "atc_animation": "horizontal-shaking",
-            "atc_color": "#ffffff",
-            "atc_border_color": "rgba(0,0,0,0)",
-            "atc_bg_color": "#ff8b21",
-            "atc_bg_color_gradient": "",
-            "atc_color_hover": "#ffffff",
-            "atc_border_color_hover": "rgba(0,0,0,0)",
-            "atc_bg_color_hover": "#232323",
-            "atc_bg_color_gradient_hover": "",
-            "bin_color": "#ffffff",
-            "bin_border_color": "rgba(0,0,0,0)",
-            "bin_bg_color": "#232323",
-            "bin_bg_color_gradient": "",
-            "bin_color_hover": "#ffffff",
-            "bin_border_color_hover": "rgba(0,0,0,0)",
-            "bin_bg_color_hover": "#ff8b21",
-            "bin_bg_color_hover_gradient": "",
-            "spacing_top": 0,
-            "spacing_bottom": 15
-          }
-        }
-      },
-      "block_order": [
-        "title_p3rUxH",
-        "meta_axtFfn",
-        "short_description_GVrrpw",
-        "price_fany6z",
-        "product_text_xhAJ7y",
-        "variant_picker_caHFKJ",
-        "quantity_selector_NBPK8D",
-        "buy_buttons_y7fWrU"
-      ],
+    "custom_press_banner_Nwmktj": {
+      "type": "custom-press-banner",
       "settings": {
-        "id_section": "",
         "container": "container",
         "padding_full_width": 0,
-        "show_sticky_info": false,
-        "bg_color_product": "#FFFFFF",
-        "title": "Shop Now",
-        "color_title": "#ff8b21",
-        "fontsize_title": 60,
-        "fontsize_title_mb": 34,
-        "margin_bottom_title": 43,
-        "margin_bottom_title_mb": 20,
-        "des": "Phasellus lorem an malesuada ligula pulvinar commodo maecenas.",
-        "color_des": "#232323",
-        "fontsize_des": 16,
-        "margin_bottom_des": 45,
-        "margin_bottom_des_mb": 30,
-        "title_align": "center",
-        "featured_product": "j-hook-galvanized-steel-rebar-anchor-stakes-for-anchoring-geocells-storage-tents-support-cables-tarps-shade-cloth-pipe",
-        "main_image_arrows_desktop": true,
-        "main_image_counter_mobile": false,
-        "main_image_position": "left",
-        "main_image_bg_color": "#232323",
-        "thumnail_layout": "2",
-        "show_thumbnail_mobile": true,
-        "thumbnail_to_show": 5,
-        "thumbnail_active_color": "#ff8b21",
-        "thumbnail_arrow_color_mb": "#232323",
-        "thumbnail_image_bg_color": "#121212",
-        "media_fit": "unset",
-        "product_image_ratio": "adapt",
-        "portrait_aspect_ratio": 100,
-        "product_image_popup": "fancybox",
-        "video_layout": "thumbnail",
-        "show_badge": true,
-        "show_qty": true,
-        "mg_top_desktop": 60,
+        "press_bg": "#fafafa",
+        "press_gradient": "",
+        "align_items": "start",
+        "press_image": "shopify://shop_images/IMG-20241202-WA0038.jpg",
+        "press_image_width": 320,
+        "press_image_width_ratio": 51,
+        "sub_title": "",
+        "letter_spacing_sub_title": "",
+        "font_size_sub_title": 14,
+        "font_size_sub_title_mb": 14,
+        "margin_bottom_sub_title": 14,
+        "font_weight_sub_title": "700",
+        "sub_title_position": "sub_title_above",
+        "color_sub_title": "#232323",
+        "title": "Sale 70% OFF",
+        "title_font_size": 80,
+        "title_font_size_mb": 20,
+        "title_font_weight": "700",
+        "mg_bottom_title": 15,
+        "title_color": "#000000",
+        "des": "Limited Time Only. End ins:",
+        "des_font_size": 12,
+        "des_font_size_mb": 12,
+        "des_font_weight": "400",
+        "mg_bottom_des": 15,
+        "des_color": "#000000",
+        "item_spacing": 120,
+        "content_max_width": 260,
+        "button_text": "Subscribe",
+        "button_link": "shopify://products/j-hook-galvanized-steel-rebar-anchor-stakes-for-anchoring-geocells-storage-tents-support-cables-tarps-shade-cloth-pipe",
+        "fontsize_btn": 16,
+        "button_width": 190,
+        "color_button": "#fff",
+        "border_color_button": "#232323",
+        "bg_color_button": "#232323",
+        "bg_gradient_color_button": "",
+        "color_button_hover": "#fff",
+        "border_color_button_hover": "#232323",
+        "bg_color_button_hover": "#232323",
+        "bg_gradient_color_button_hover": "",
+        "btn_text_transform": "uppercase",
+        "image_behavior": "none",
+        "mg_top_desktop": 50,
         "mg_top_tablet": 50,
-        "mg_top_mobile": 40,
+        "mg_top_mobile": 50,
         "mg_bottom_desktop": 50,
-        "mg_bottom_tablet": 30,
-        "mg_bottom_mobile": 30
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50
       }
     }
   },
@@ -1855,6 +1732,6 @@
     "1632296224c9e90203",
     "1632304586ad9b5b3b",
     "1632364695b0f88b4f",
-    "featured_product_Eb9fp6"
+    "custom_press_banner_Nwmktj"
   ]
 }
