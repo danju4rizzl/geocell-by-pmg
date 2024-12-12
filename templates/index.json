@@ -960,6 +960,10 @@
         "quantity_selector_GL4jaq",
         "buy_buttons_bxjghH"
       ],
+      "custom_css": [
+        ".productView-moreItem h1 {color: #232323;}",
+        ".productView-moreItem h1:hover {color: #232323;}"
+      ],
       "settings": {
         "id_section": "",
         "container": "container",
