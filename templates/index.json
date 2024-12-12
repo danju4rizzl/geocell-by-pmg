@@ -1780,12 +1780,12 @@
             "atc_bg_color_gradient_hover": "",
             "bin_color": "#ffffff",
             "bin_border_color": "rgba(0,0,0,0)",
-            "bin_bg_color": "rgba(0,0,0,0)",
-            "bin_bg_color_gradient": "linear-gradient(#000, #000) padding-box,        linear-gradient(90deg, rgba(48, 188, 237, 1), rgba(127, 72, 176, 1) 50%, rgba(229, 26, 203, 1) 100%) border-box",
+            "bin_bg_color": "#232323",
+            "bin_bg_color_gradient": "",
             "bin_color_hover": "#ffffff",
             "bin_border_color_hover": "rgba(0,0,0,0)",
-            "bin_bg_color_hover": "rgba(0,0,0,0)",
-            "bin_bg_color_hover_gradient": "linear-gradient(90deg, rgba(48, 188, 237, 1), rgba(127, 72, 176, 1) 50%, rgba(229, 26, 203, 1) 100%)",
+            "bin_bg_color_hover": "#ff8b21",
+            "bin_bg_color_hover_gradient": "",
             "spacing_top": 0,
             "spacing_bottom": 15
           }
