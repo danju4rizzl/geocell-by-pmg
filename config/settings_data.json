@@ -319,6 +319,7 @@
     "banner_animation": "none",
     "animations_hover_elements": "none",
     "use_custom_js": false,
+    "enable_promotion": false,
     "enable_sticky_notification": true,
     "enable_sticky_notification_mb": true,
     "show_notification_again_when": "time",
