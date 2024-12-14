@@ -1173,6 +1173,7 @@
         "41b12b4c-82b5-4352-8517-389aad8e189c": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Banner_image_186x74_6.png",
             "title": "",
             "color_text": "#000000",
             "color_text_hover": "#3e8cc4",
@@ -1181,9 +1182,34 @@
             "link": "https://new-ella-demo.myshopify.com/collections/vendors?q=Jimmy%20Choo"
           }
         },
+        "image_faweUm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner_image_186x74_3.png",
+            "title": "",
+            "color_text": "#000",
+            "color_text_hover": "#3e8cc4",
+            "description": "",
+            "color_des": "#3c3c3c",
+            "link": ""
+          }
+        },
+        "image_6DDqgA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner_image_186x74_5.png",
+            "title": "",
+            "color_text": "#000",
+            "color_text_hover": "#3e8cc4",
+            "description": "",
+            "color_des": "#3c3c3c",
+            "link": ""
+          }
+        },
         "bdae57c3-5b52-4a54-8e32-0a044b504263": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Banner_image_186x74_4.png",
             "title": "",
             "color_text": "#000000",
             "color_text_hover": "#3e8cc4",
@@ -1195,6 +1221,7 @@
         "fcfce55e-8fe7-4a74-9144-b92bd0bc2b2c": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Banner_image_186x74_2.png",
             "title": "",
             "color_text": "#000000",
             "color_text_hover": "#3e8cc4",
@@ -1206,6 +1233,7 @@
         "d436bd12-1274-4406-9390-e950151fbe8a": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Banner_image_186x74_1.png",
             "title": "",
             "color_text": "#000000",
             "color_text_hover": "#3e8cc4",
@@ -1217,28 +1245,7 @@
         "f15bb8a5-40f9-4d63-97ab-a51b2e7a1420": {
           "type": "image",
           "settings": {
-            "title": "",
-            "color_text": "#000000",
-            "color_text_hover": "#3e8cc4",
-            "description": "",
-            "color_des": "#3c3c3c",
-            "link": "https://new-ella-demo.myshopify.com/collections/vendors?q=Jimmy%20Choo"
-          }
-        },
-        "e6a19dc6-2aec-4512-92b1-383a2457fd78": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "color_text": "#000000",
-            "color_text_hover": "#3e8cc4",
-            "description": "",
-            "color_des": "#3c3c3c",
-            "link": "https://new-ella-demo.myshopify.com/collections/vendors?q=Jimmy%20Choo"
-          }
-        },
-        "70c98209-e556-47a8-905c-ef59a3cbdafa": {
-          "type": "image",
-          "settings": {
+            "image": "shopify://shop_images/Banner_image_186x74_7.png",
             "title": "",
             "color_text": "#000000",
             "color_text_hover": "#3e8cc4",
@@ -1250,18 +1257,18 @@
       },
       "block_order": [
         "41b12b4c-82b5-4352-8517-389aad8e189c",
+        "image_faweUm",
+        "image_6DDqgA",
         "bdae57c3-5b52-4a54-8e32-0a044b504263",
         "fcfce55e-8fe7-4a74-9144-b92bd0bc2b2c",
         "d436bd12-1274-4406-9390-e950151fbe8a",
-        "f15bb8a5-40f9-4d63-97ab-a51b2e7a1420",
-        "e6a19dc6-2aec-4512-92b1-383a2457fd78",
-        "70c98209-e556-47a8-905c-ef59a3cbdafa"
+        "f15bb8a5-40f9-4d63-97ab-a51b2e7a1420"
       ],
       "settings": {
         "container": "container",
         "padding_full_width": 0,
         "brands_block_style": "style_1",
-        "brand_layout": "slider",
+        "brand_layout": "infinite",
         "scroll_from": "ltr",
         "brand_scroll_time": "20",
         "display_brand_border": true,
