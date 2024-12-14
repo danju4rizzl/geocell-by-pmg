@@ -149,7 +149,7 @@
             "show_copyright": true,
             "show_shop_name": true,
             "enable_layout_grid": true,
-            "copyright_content": "<p>© 2024, Ella Demo. All rights reserved. Themes by <a href=\"http://halothemes.net/\" target=\"_blank\" title=\"halothemes\">Halothemes</a></p>",
+            "copyright_content": "<p>© 2024, Geocell Africa - Website Designed By <a href=\"https://wa.link/1jsm9a\" target=\"_blank\" title=\"https://wa.link/1jsm9a\">DeejayDev</a></p>",
             "copyright_content_color": "#cfcfcf",
             "shop_name": "",
             "show_payment": true,
@@ -175,7 +175,7 @@
             "show_payment_ideal": false,
             "show_payment_klarna": false,
             "show_payment_klarna-pay-later": false,
-            "show_payment_shopify_pay": false,
+            "show_payment_shopify_pay": true,
             "show_payment_sofort": false
           }
         }
