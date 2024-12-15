@@ -28,7 +28,7 @@
           "settings": {
             "custom_width": "20",
             "heading": "Product Range",
-            "menu": "footer",
+            "menu": "footer-products",
             "mg_bottom": 10
           }
         },
