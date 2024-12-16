@@ -269,7 +269,7 @@
             "color_icon": "#ffffff",
             "bg_color_icon": "rgba(0,0,0,0)",
             "button_style": "style_1",
-            "btn_text": "Shop at our Store",
+            "btn_text": "View our Product",
             "link": "shopify://collections/frontpage",
             "button_1_width": 195,
             "enable_button_custom_border": false,
