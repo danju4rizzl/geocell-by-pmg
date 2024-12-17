@@ -351,7 +351,7 @@
     "notification_popup_image": "shopify://shop_images/Screenshot_2_84e0c2f0-e69b-4ebe-9a2a-25dbe149170f.png",
     "notification_popup_link": "#",
     "notification_popup_link_title_color": "#683fe4",
-    "enable_preloading_screen": true,
+    "enable_preloading_screen": false,
     "show_review": false,
     "checkout_logo_image": "shopify://shop_images/Home-6-Logo-Parallax.png",
     "share_product_type": "addthis",
