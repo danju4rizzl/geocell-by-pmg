@@ -122,8 +122,9 @@
           "type": "logo",
           "settings": {
             "logo_position": "sticky_menu",
-            "logo_width": 90,
-            "logo_width_fixed": 55,
+            "logo": "shopify://shop_images/Geocell_Logo_Final_Alt.png",
+            "logo_width": 100,
+            "logo_width_fixed": 90,
             "logo_text": "",
             "logo_font_size": 20,
             "logo_font_weight": "900",
