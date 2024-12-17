@@ -852,8 +852,7 @@
   "platform_customizations": {
     "custom_css": [
       "/* Deejaydev custom code here */.text-primary {color: #f58735;}",
-      ".slide-content.content-box--absolute {border-radius: 10px;}",
-      ".about-row img {border-radius: 10px}"
+      ".slide-content.content-box--absolute {border-radius: 10px;}"
     ]
   }
 }
