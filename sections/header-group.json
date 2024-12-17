@@ -62,7 +62,7 @@
         "fde2cc21-cbc9-4c9a-ad68-7cc53ec68280": {
           "type": "service",
           "settings": {
-            "customer_service_text": "<p>Customer Service 091 234-ELLA</p>",
+            "customer_service_text": "",
             "text_color": "#323232",
             "show_language_currency": false,
             "language_currency_color": "#323232",
