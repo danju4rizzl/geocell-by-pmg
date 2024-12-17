@@ -70,7 +70,7 @@
         "f4d12560-a07c-4bd4-a934-2a8eddeaccc9"
       ],
       "settings": {
-        "show_breadcrumb": true,
+        "show_breadcrumb": false,
         "breadcrumb_alignment": "left",
         "breadcrumb_bg": "",
         "breadcrumb_gradient": "",
