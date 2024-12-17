@@ -80,7 +80,7 @@
 										                alt="{{ image_1.alt | default: shop.name | escape }}"
                                                         width="{{ image_1.width }}"
                                                         height="{{ image_1.height }}"
-                                                        style="border-radius: 10px"
+                                                        
                                                     >
 			                            		{%- if link_1 != blank -%}
 			                            			</a>
@@ -157,6 +157,14 @@
 </div>
 
 <style type="text/css" media="screen">
+  /* Deejaydev custom code starts here */
+  #AboutSection-{{ section.id }} img{
+  border-radius: 10px;
+
+}
+
+ /* Deejaydev custom code ends here */
+
     #AboutSection-{{ section.id }} {
         padding-top: {{ padding_top }};
         padding-bottom: {{ padding_bottom }};
