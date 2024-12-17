@@ -229,7 +229,7 @@
     "newsletter_popup_note": "No, thanks",
     "select_button_submit": "default",
     "button_newsletter_link": "",
-    "show_recently_viewed_popup": false,
+    "show_recently_viewed_popup": true,
     "recently_viewed_limit": 5,
     "show_recently_viewed_share": false,
     "show_recently_viewed_top": false,
