@@ -39,7 +39,8 @@
         "8472dad8-3289-4746-8b7f-e6ebe3175dd5": {
           "type": "lookbook",
           "settings": {
-            "show_image": true,
+            "show_image": false,
+            "image": "shopify://shop_images/dim-collection_470X470_2.png",
             "link": "",
             "show_title": true,
             "page_title_alignment": "left",
@@ -58,6 +59,7 @@
         },
         "80b0a11c-fb01-4b89-8a29-1dbb2a1db16a": {
           "type": "category",
+          "disabled": true,
           "settings": {
             "show_block": true,
             "heading": "Categories",
@@ -94,8 +96,9 @@
         "dc4f771a-d1ea-42a7-8792-b895132fa9fe": {
           "type": "image",
           "settings": {
-            "show_block": true,
-            "heading": "",
+            "show_block": false,
+            "heading": "as",
+            "image": "shopify://shop_images/dim-collection_470X470_2.png",
             "link": ""
           }
         },
