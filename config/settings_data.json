@@ -527,6 +527,12 @@
       "halo-navigation-mobile": {
         "type": "halo-navigation-mobile",
         "blocks": {
+          "menu_3_EfEwpa": {
+            "type": "menu-3",
+            "settings": {
+              "menu": "main-menu"
+            }
+          },
           "menu_1_tXiEN4": {
             "type": "menu-1",
             "settings": {
@@ -589,6 +595,7 @@
           }
         },
         "block_order": [
+          "menu_3_EfEwpa",
           "menu_1_tXiEN4",
           "32a5a3ab-3967-4d9b-a9a9-cdc87bec6641",
           "menu_1_7LCqqq",
