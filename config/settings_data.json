@@ -535,6 +535,7 @@
           },
           "menu_1_tXiEN4": {
             "type": "menu-1",
+            "disabled": true,
             "settings": {
               "show_banner": false,
               "heading": "Home",
@@ -550,6 +551,7 @@
           },
           "32a5a3ab-3967-4d9b-a9a9-cdc87bec6641": {
             "type": "menu-1",
+            "disabled": true,
             "settings": {
               "show_banner": false,
               "heading": "About Us",
@@ -565,6 +567,7 @@
           },
           "menu_1_7LCqqq": {
             "type": "menu-1",
+            "disabled": true,
             "settings": {
               "show_banner": false,
               "heading": "FAQ",
@@ -580,6 +583,7 @@
           },
           "menu_1_rJhKJQ": {
             "type": "menu-1",
+            "disabled": true,
             "settings": {
               "show_banner": false,
               "heading": "Contact Us",
