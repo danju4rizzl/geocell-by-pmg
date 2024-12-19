@@ -532,78 +532,10 @@
             "settings": {
               "menu": "main-menu"
             }
-          },
-          "menu_1_tXiEN4": {
-            "type": "menu-1",
-            "disabled": true,
-            "settings": {
-              "show_banner": false,
-              "heading": "Home",
-              "url": "#",
-              "menu": "",
-              "label": "",
-              "icon": "",
-              "show_custom_style": false,
-              "text_color": "#000000",
-              "label_bg_color": "#000000",
-              "label_text_color": "#ffffff"
-            }
-          },
-          "32a5a3ab-3967-4d9b-a9a9-cdc87bec6641": {
-            "type": "menu-1",
-            "disabled": true,
-            "settings": {
-              "show_banner": false,
-              "heading": "About Us",
-              "url": "shopify://pages/about-us",
-              "menu": "",
-              "label": "",
-              "icon": "",
-              "show_custom_style": false,
-              "text_color": "#000000",
-              "label_bg_color": "#000000",
-              "label_text_color": "#ffffff"
-            }
-          },
-          "menu_1_7LCqqq": {
-            "type": "menu-1",
-            "disabled": true,
-            "settings": {
-              "show_banner": false,
-              "heading": "FAQ",
-              "url": "shopify://pages/faq",
-              "menu": "",
-              "label": "",
-              "icon": "",
-              "show_custom_style": false,
-              "text_color": "#000000",
-              "label_bg_color": "#000000",
-              "label_text_color": "#ffffff"
-            }
-          },
-          "menu_1_rJhKJQ": {
-            "type": "menu-1",
-            "disabled": true,
-            "settings": {
-              "show_banner": false,
-              "heading": "Contact Us",
-              "url": "shopify://pages/contact",
-              "menu": "",
-              "label": "",
-              "icon": "",
-              "show_custom_style": false,
-              "text_color": "#000000",
-              "label_bg_color": "#000000",
-              "label_text_color": "#ffffff"
-            }
           }
         },
         "block_order": [
-          "menu_3_EfEwpa",
-          "menu_1_tXiEN4",
-          "32a5a3ab-3967-4d9b-a9a9-cdc87bec6641",
-          "menu_1_7LCqqq",
-          "menu_1_rJhKJQ"
+          "menu_3_EfEwpa"
         ],
         "settings": {
           "heading": "Menu",
