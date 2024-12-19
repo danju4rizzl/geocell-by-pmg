@@ -262,22 +262,6 @@
             "spacing_top": 0,
             "spacing_bottom": 14
           }
-        },
-        "9630b233-8164-4dad-ab64-8830bedf328a": {
-          "type": "complementary_products",
-          "settings": {
-            "show_complementary_product": true,
-            "complementary_product_title": "Pairs well with",
-            "complementary_product_arrows": false,
-            "complementary_product_dots": true,
-            "complementary_product_layout": "2",
-            "complementary_product_limit_1": 2,
-            "complementary_product_button_atc": false,
-            "complementary_product_limit_2": 3,
-            "complementary_product_object": "cover",
-            "spacing_top": 30,
-            "spacing_bottom": 0
-          }
         }
       },
       "block_order": [
@@ -302,8 +286,7 @@
         "3d9ea84d-5527-4bce-abe6-5debef3ec955",
         "19ab1d9f-74b2-4c76-bf2e-1bc749e5c2a3",
         "a86220cf-8641-4e06-87d3-b5ffa195501b",
-        "058d88b7-6cce-4aae-a5c4-b8193bbdfa7f",
-        "9630b233-8164-4dad-ab64-8830bedf328a"
+        "058d88b7-6cce-4aae-a5c4-b8193bbdfa7f"
       ],
       "settings": {
         "container": "default",
