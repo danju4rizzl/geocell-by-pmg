@@ -41,30 +41,6 @@
             "product_block_arrows": true
           }
         },
-        "5ad48b09-ec51-476a-b52c-e12ce0707c61": {
-          "type": "image",
-          "settings": {
-            "show_block": true,
-            "heading": "",
-            "link": ""
-          }
-        },
-        "74038a9b-b77e-4134-88bb-bcd7f06fdda1": {
-          "type": "image",
-          "settings": {
-            "show_block": true,
-            "heading": "",
-            "link": ""
-          }
-        },
-        "9bcdee17-7ee7-4353-b16c-f7b04bdf5b84": {
-          "type": "text",
-          "settings": {
-            "show_block": true,
-            "heading": "Custom Block",
-            "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... or whatever you like.</p>\n<p>There are many similar sample content placeholders across the store. All editable from Theme Editor.</p>"
-          }
-        },
         "580588b2-a150-4670-9def-6bc2575c20ea": {
           "type": "recent_tag",
           "settings": {
@@ -79,9 +55,6 @@
         "275addbb-56b4-4828-a499-03e58376b7c4",
         "55c8959f-8115-4017-bf9e-6937d51df687",
         "6543713f-63f0-4882-ad34-5a2cdf3308dd",
-        "5ad48b09-ec51-476a-b52c-e12ce0707c61",
-        "74038a9b-b77e-4134-88bb-bcd7f06fdda1",
-        "9bcdee17-7ee7-4353-b16c-f7b04bdf5b84",
         "580588b2-a150-4670-9def-6bc2575c20ea"
       ],
       "settings": {
