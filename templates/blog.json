@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -6,10 +15,10 @@
         "275addbb-56b4-4828-a499-03e58376b7c4": {
           "type": "category",
           "settings": {
-            "show_block": true,
+            "show_block": false,
             "heading": "Categories",
             "type": "1_level",
-            "link_list": "categories-footer-home3"
+            "link_list": ""
           }
         },
         "55c8959f-8115-4017-bf9e-6937d51df687": {
@@ -37,7 +46,6 @@
           "settings": {
             "show_block": true,
             "heading": "",
-            "image": "shopify:\/\/shop_images\/blog-sidebar-2-1.jpg",
             "link": ""
           }
         },
@@ -46,7 +54,6 @@
           "settings": {
             "show_block": true,
             "heading": "",
-            "image": "shopify:\/\/shop_images\/blog-sidebar-2-2.jpg",
             "link": ""
           }
         },
@@ -55,7 +62,7 @@
           "settings": {
             "show_block": true,
             "heading": "Custom Block",
-            "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... or whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from Theme Editor.<\/p>"
+            "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... or whatever you like.</p>\n<p>There are many similar sample content placeholders across the store. All editable from Theme Editor.</p>"
           }
         },
         "580588b2-a150-4670-9def-6bc2575c20ea": {
@@ -78,8 +85,12 @@
         "580588b2-a150-4670-9def-6bc2575c20ea"
       ],
       "settings": {
-        "show_breadcrumb": true,
+        "show_breadcrumb": false,
         "breadcrumb_alignment": "left",
+        "breadcrumb_bg": "",
+        "breadcrumb_gradient": "",
+        "breadcrumb_bg_mb": "#f6f6f6",
+        "breadcrumb_gradient_mb": "",
         "show_page_title": true,
         "page_title_alignment": "left",
         "container": "container",
