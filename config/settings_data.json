@@ -530,7 +530,7 @@
           "32a5a3ab-3967-4d9b-a9a9-cdc87bec6641": {
             "type": "menu-1",
             "settings": {
-              "show_banner": true,
+              "show_banner": false,
               "banner_lv_2": "shopify://shop_images/IMG-20241202-WA0029_901cf247-1a06-4cb0-90ba-e472746d0a9f.jpg",
               "heading": "About Us",
               "url": "shopify://pages/about-us",
