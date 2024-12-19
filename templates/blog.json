@@ -33,7 +33,7 @@
           "type": "product_block",
           "settings": {
             "show_block": true,
-            "heading": "Featured Products",
+            "heading": "Our Featured Products",
             "product_block_collection": "best-sellers",
             "product_block_layout": "grid",
             "product_block_limit": 4,
