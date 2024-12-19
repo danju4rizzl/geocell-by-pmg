@@ -590,7 +590,7 @@
       "settings": {
         "colors_bg": "#ffffff",
         "colors_bg_gradient": "",
-        "show_breadcrumb": true,
+        "show_breadcrumb": false,
         "breadcrumb_alignment": "center",
         "breadcrumb_bg": "",
         "breadcrumb_gradient": "",
@@ -598,7 +598,7 @@
         "breadcrumb_gradient_mb": "",
         "show_page_title": true,
         "page_title_alignment": "center",
-        "des_collection": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo, elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat. Nulla non felis id metus bibendum iaculis quis sit amet eros. Nam suscipit mollis tellus...",
+        "des_collection": "Explore our diverse range of innovative geocell products, designed to address a wide range of challenges in civil engineering and environmental construction. From soil stabilization and erosion control to slope protection and water management, our solutions offer superior performance, durability, and sustainability.",
         "des_collection_alignment": "center",
         "des_collection_font_size": 12,
         "des_collection_font_size_mb": 12,
