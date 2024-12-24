@@ -37,6 +37,12 @@
             "spacing_bottom": 10
           }
         },
+        "custom_liquid_Pxjx9B": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"product-pdfs\">\n  {% if product.metafields.custom.technical_specifications %}\n  <label class=\"product-form__label available\" for=\"001\" data-variant-id=\"001\">\n    <a\n      href=\"{{ product.metafields.custom.technical_specifications }}\"\n      target=\"_blank\"\n      class=\"text\"\n      >Download Technical Specifications PDF</a\n    >\n  </label>\n  {% endif %} {% if product.metafields.custom.installation_guidelines %}\n  <label class=\"product-form__label available\" for=\"002\" data-variant-id=\"002\">\n    <a\n      href=\"{{ product.metafields.custom.installation_guidelines }}\"\n      target=\"_blank\"\n      class=\"text\"\n      >Download Installation Guidelines PDF</a\n    >\n  </label>\n  {% endif %} {% if product.metafields.custom.case_studies %}\n  <label class=\"product-form__label available\" for=\"003\" data-variant-id=\"003\">\n    <a\n      href=\"{{ product.metafields.custom.case_stdies}}\"\n      target=\"_blank\"\n      class=\"text\"\n      >Download Case Studies PDF</a\n    >\n  </label>\n  {% endif %}\n</div>"
+          }
+        },
         "0e4ea696-4820-4c98-aaa6-806d41782a3d": {
           "type": "meta",
           "settings": {
@@ -267,6 +273,7 @@
       "block_order": [
         "2e8c7c14-a0ad-4930-a1d8-3def05310426",
         "b0ea69b7-8a54-4a3c-9abd-0fcceeabaaa0",
+        "custom_liquid_Pxjx9B",
         "0e4ea696-4820-4c98-aaa6-806d41782a3d",
         "4036f89b-c2c5-49a4-9d6b-2fd29ce7c46c",
         "4e59f24a-8859-4579-a80a-d70e6f1bf66b",
